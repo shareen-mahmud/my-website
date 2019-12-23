@@ -13,3 +13,26 @@ a:hover {
     margin-top: 20px;
     margin-left: 20px;
 }
+.intro-wrapper {
+    text-align: center;
+    min-height: 579px;
+    background-image: url("../images/background-shareen.jpg");
+    height: 579px; /* You must set a specified height */
+    background-position: center;
+    width: auto;
+    position: relative;
+}
+
+.intro-text {
+    font-size: 68px;
+    background: #f9c6cf;
+    color: black;
+    width: 53%;
+    float: right;
+    font-family: Monserrat;
+    position: absolute;
+    z-index: 10;
+    bottom: -70px;
+    transform: translateX(34%);
+    border-radius:30px;
+}
