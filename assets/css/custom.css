@@ -27,12 +27,10 @@ a:hover {
     font-size: 68px;
     background: #f9c6cf;
     color: black;
-    width: 53%;
-    float: right;
+    width: 100%;
     font-family: Monserrat;
     position: absolute;
     z-index: 10;
     bottom: -70px;
-    transform: translateX(34%);
-    border-radius:30px;
+    right: 0px;
 }
