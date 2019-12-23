@@ -1,0 +1,15 @@
+a {
+    color: black;
+}
+
+a:hover {
+    color: #ff848c;
+}
+
+.navbar.navbar-expand-sm {
+    background-color: #ffffff;
+    font-family: apercu, sans-serif;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-left: 20px;
+}
