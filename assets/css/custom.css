@@ -24,7 +24,7 @@ a:hover {
 }
 
 .intro-text {
-    font-size: 68px;
+    font-size: 55px;
     background: #f9c6cf;
     color: black;
     width: 100%;
@@ -33,4 +33,39 @@ a:hover {
     z-index: 10;
     bottom: -70px;
     right: 0px;
+    min-height: 82px;
 }
+
+.description {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+.tag {
+    background-color: #fff8bc;
+    padding: 10px;
+}
+
+.organization {
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+.datetime {
+    float: right;
+    color: #A9A9A9;
+}
+
+.info-block {
+    margin-top: 60px;
+}
+/*.tag-research {*/
+/*    background-color: dodgerblue;*/
+/*}*/
+
+/*.tag-development {*/
+/*    background-color: #1e7e34;*/
+/*}*/
